@@ -18,6 +18,7 @@ faq: [{"question": "Should I call my insurance company before I start cleanup?",
 published_at: "2026-09-06"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 If water has entered your home, the clock starts immediately. Mold can begin colonizing wet materials within 24 to 48 hours, and structural damage compounds the longer water sits. Here is what to do right now: shut off the water source if you can, cut power to affected rooms at the breaker, document everything with photos before you move anything, and start removing standing water with whatever you have on hand, towels, a wet-vac, buckets. The steps below walk through each phase in order.
 

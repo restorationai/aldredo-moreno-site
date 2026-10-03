@@ -18,6 +18,7 @@ faq: [{"question": "Is black mold more dangerous than other types of mold?", "an
 published_at: "2026-09-17"
 services: ["mold-remediation"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 ## Why Color Alone Doesn't Answer the Question
 

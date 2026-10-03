@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Texas?", "ans
 published_at: "2026-09-24"
 services: []
 rendered: true
+author: "Aldredo Moreno"
 ---
 **TL;DR:** Water damage restoration in Texas typically costs between $1,500 and $8,000 for most residential jobs. A small clean-water leak in one room runs $1,200 to $3,500. A sewage backup or major flood affecting multiple rooms can push $5,000 to $15,000 or more. The biggest cost drivers are the category of water (clean vs. gray vs. sewage), how long it sat before cleanup started, and how many materials need to come out.
 

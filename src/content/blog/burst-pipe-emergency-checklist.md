@@ -16,6 +16,7 @@ faq: [{"question": "How long does it take for mold to grow after a pipe burst?",
 published_at: "2026-08-25"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 When a pipe bursts, you have minutes, not hours, before water migrates into walls, subfloor, and insulation. Turn off your main water shutoff valve immediately, then cut power to any circuits in the affected area at your breaker box. Once the water is stopped and the electricity is safe, you can start documenting and drying. This checklist walks you through every step in order, from the first 60 seconds to the weeks of recovery that follow.
 

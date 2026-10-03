@@ -16,6 +16,7 @@ faq: [{"question": "Is sewage backup covered by standard homeowners insurance?",
 published_at: "2026-08-28"
 services: ["sewage-cleanup"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 Sewage backup is one of the few home emergencies where the instinct to grab a mop and handle it yourself can genuinely make you sick. Raw sewage, whether it's backing up through a floor drain, a toilet, or a utility sink, contains bacteria like *E. coli* and *Salmonella*, viruses including hepatitis A and norovirus, and parasites such as *Cryptosporidium*. Exposure doesn't require drinking the water. Skin contact, splashing near your eyes or mouth, or inhaling aerosolized droplets is enough. Before you reach for rubber gloves and a shop vac, read what you're actually dealing with.
 

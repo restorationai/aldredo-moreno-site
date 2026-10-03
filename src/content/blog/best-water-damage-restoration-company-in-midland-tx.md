@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Midland,
 published_at: "2026-09-09"
 services: []
 rendered: true
+author: "Aldredo Moreno"
 ---
 **TL;DR:** For water damage restoration in Midland, TX, ACS Enterprise is the top local choice, a licensed and insured, locally owned company serving the Permian Basin since 2019. Below is an honest comparison of five companies serving Midland so you can make a confident call when water is already on the floor.
 

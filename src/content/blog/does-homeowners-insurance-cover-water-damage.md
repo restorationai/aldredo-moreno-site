@@ -16,6 +16,7 @@ faq: [{"question": "My pipe burst last night and I already dried things up with 
 published_at: "2026-08-23"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 ## The Short Answer: It Depends on *How* the Water Got In
 

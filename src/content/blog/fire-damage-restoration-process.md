@@ -18,6 +18,7 @@ faq: [{"question": "How long does fire damage restoration usually take?", "answe
 published_at: "2026-09-24"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 A house fire doesn't end when the flames are out. The real damage, the part that determines whether a home is salvageable, unfolds over the days and weeks that follow: soot settling into porous materials, smoke odor working into drywall and insulation, and water from firefighting efforts soaking into subfloors and framing. Restoration is the process of stopping that secondary damage before it becomes permanent, then rebuilding the home from the inside out. It typically moves through assessment, cleanup of soot and residue, odor treatment, structural drying, and finally repair or rebuild, with each stage depending on how hot the fire burned and how long it took to extinguish.
 

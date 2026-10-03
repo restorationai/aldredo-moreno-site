@@ -18,6 +18,7 @@ faq: [{"question": "How long does it take for mold to grow after a water leak?",
 published_at: "2026-09-17"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 If you can see visible mold growth or you're certain about the source, you likely don't need a kit at all; a square foot or less of surface mold on a hard, non-porous surface can often be cleaned with soap and water. But if you're smelling something musty without a visible source, had a hidden leak, or someone in the house has unexplained respiratory symptoms, a DIY swab or petri dish kit will tell you mold spores exist (they almost always do, everywhere) without telling you whether you have a hidden colony, what's feeding it, or how bad it actually is. For that, you need a professional inspection with moisture mapping and, if warranted, lab-analyzed air or surface samples.
 

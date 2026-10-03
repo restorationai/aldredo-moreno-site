@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have to file a storm damage claim in Texas?", 
 published_at: "2026-08-27"
 services: ["storm-damage-restoration"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 Before you dial your insurance company after a storm, stop. The next 30 minutes matter more than most homeowners realize. Adjusters are trained to document what they see, and what they don't see. If you haven't photographed the damage, separated storm losses from pre-existing wear, or pulled together your policy details, you're walking into that conversation at a disadvantage. This checklist walks you through exactly what to gather and do before you make that call, so your claim starts on solid ground.
 

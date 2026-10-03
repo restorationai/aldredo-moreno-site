@@ -18,6 +18,7 @@ faq: [{"question": "Can mold grow inside walls without being visible on the surf
 published_at: "2026-09-01"
 services: ["mold-remediation", "water-damage-restoration"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 ## Mold Can Start Growing in as Little as 24 to 48 Hours
 

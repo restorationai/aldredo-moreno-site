@@ -18,6 +18,7 @@ faq: [{"question": "Should I start cleanup myself before the restoration company
 published_at: "2026-09-01"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 ## The Short Answer: Verify Before You Sign Anything
 

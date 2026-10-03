@@ -17,6 +17,7 @@ faq: [{"question": "Is sewage backup covered by homeowners insurance in Texas?",
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Aldredo Moreno"
 ---
 **TL;DR:** Sewage cleanup and remediation means safely removing contaminated ("black water") material, disinfecting every surface it touched, and drying the structure to stop bacteria and mold growth. It typically costs $500 to $7,000 depending on how far the water traveled and what materials it soaked. Homeowners insurance often covers sudden sewer backups but usually excludes gradual seepage, so documentation matters. A licensed remediation crew, not a mop and a bottle of bleach, is the safe way to handle it.
 

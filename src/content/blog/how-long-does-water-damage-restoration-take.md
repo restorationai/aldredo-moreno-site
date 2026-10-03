@@ -16,6 +16,7 @@ faq: [{"question": "Does homeowners insurance cover water damage restoration, an
 published_at: "2026-08-19"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 The honest answer: most water damage restoration jobs take **3 to 5 days for the drying phase alone**, and the full process, drying, assessment, repairs, and any required reconstruction, commonly runs **1 to 3 weeks** depending on how much water got in, where it went, and how quickly the response started. If you're staring at wet carpet or a water-stained ceiling right now, that timeline is what you're working with. The sections below break down what happens at each stage so you know what to expect, and what can stretch or shorten that window.
 

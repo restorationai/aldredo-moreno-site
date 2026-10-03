@@ -17,6 +17,7 @@ faq: [{"question": "What does storm and wind damage restoration cost in West Tex
 published_at: "2026-10-01"
 services: []
 rendered: true
+author: "Aldredo Moreno"
 ---
 **TL;DR:** Storm and wind damage restoration covers emergency tarping, water extraction from wind-driven rain intrusion, drying out affected structures, and removing debris after high winds, hail, or a dust storm damage a roof, siding, or windows. In Andrews County and across the Permian Basin, straight-line winds over 60 mph are common enough that insurers expect documentation within days, not weeks. Call a restoration crew before the drywall or insulation starts absorbing moisture.
 

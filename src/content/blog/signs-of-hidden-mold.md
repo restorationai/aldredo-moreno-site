@@ -18,6 +18,7 @@ faq: [{"question": "How quickly can mold grow after a leak or flood?", "answer":
 published_at: "2026-09-17"
 services: ["mold-remediation"]
 rendered: true
+author: "Aldredo Moreno"
 ---
 If you've noticed a musty smell that won't go away, a water stain that keeps spreading, or a patch of drywall that feels soft to the touch, you may be dealing with mold growing somewhere you can't see. The most common hidden spots are behind baseboards, under carpet padding, inside wall cavities near plumbing, and in HVAC ductwork. The fastest way to confirm it is to track down the moisture source first, since mold almost never shows up without water feeding it somewhere nearby. Below are the seven signs worth paying attention to, along with what to do once you spot them.
 
