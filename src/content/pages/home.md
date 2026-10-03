@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "ACS Enterprise  | Restoration Services in Midland, TX"
-h1: "Restoration Services in Midland"
-meta_description: "ACS Enterprise provides water, fire, mold, and storm damage restoration across Midland and surrounding areas. Licensed, insured. Call (432) 847-4704."
-primary_keyword: "restoration services midland"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Midland, TX | ACS Enterprise"
+h1: "Water Damage Restoration in Midland, TX"
+meta_description: "ACS Enterprise provides water damage restoration in Midland, TX. Licensed and insured. Call (432) 847-4704 now."
+primary_keyword: "water damage restoration midland"
+secondary_keywords: ["best restoration company in midland", "restoration company midland", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "3ddca72713655304"
