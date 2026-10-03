@@ -1,9 +1,9 @@
 ---
 archetype: "blog-post"
-title: "How To Choose a Restoration Company in  (Without Getting Burned)"
-h1: "How To Choose a Restoration Company in  (Without Getting Burned)"
+title: "How To Choose a Restoration Company in Midland (Without Getting Burned)"
+h1: "How To Choose a Restoration Company in Midland (Without Getting Burned)"
 meta_description: ""
-primary_keyword: "how to choose a restoration company in  without getting burned"
+primary_keyword: "how to choose a restoration company in midland without getting burned"
 secondary_keywords: ["water damage restoration", "fire damage restoration", "mold remediation"]
 search_intent: "commercial_decision"
 priority: 5.4
@@ -13,7 +13,7 @@ plan_hash: "0e56b52d4d81284f"
 generated_at: "2026-09-19T23:52:31.218761+00:00"
 manual_override: false
 internal_links: ["/blog/", "/services/water-damage-restoration/", "/blog/burst-pipe-emergency-checklist/", "/blog/what-to-do-first-24-hours-water-damage/", "/blog/does-homeowners-insurance-cover-water-damage/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in  (Without Getting Burned)"}]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Blog", "url": "/blog/"}, {"name": "How To Choose a Restoration Company in Midland (Without Getting Burned)"}]
 faq: [{"question": "Should I start cleanup myself before the restoration company arrives?", "answer": "For small, contained spills, blotting up surface water and moving valuables out of the affected area is reasonable. For anything involving sewage backup, water that has been sitting more than 24 hours, or water that reached walls or subfloor, stop. Disturbing saturated materials without proper containment and documentation can complicate your insurance claim and spread contamination. Let the contractor do the initial assessment before you remove anything structural."}, {"question": "How do I know if a restoration company is actually certified or just says they are?", "answer": "IICRC maintains a public directory at iicrc.org where you can search by company name or individual technician. If a contractor claims IICRC certification, that search takes about 60 seconds to verify. For state licensing, the Texas Department of Licensing and Regulation handles several trades relevant to restoration work. Asking for a license number and checking it yourself is always appropriate."}, {"question": "What does 'documenting the loss for insurance' actually mean in practice?", "answer": "A properly documented water damage job includes daily moisture readings taken with a calibrated meter and logged by location, photographs of affected materials before and after removal, a written drying log showing when target moisture levels were reached, and an itemized invoice that matches the scope of work your adjuster approved. This documentation is what your insurer uses to process the claim. Without it, carriers often reduce or deny payment."}, {"question": "Can a restoration company tell me whether I have mold without a separate mold inspection?", "answer": "A restoration technician can note visible mold growth and elevated moisture conditions that create mold risk, but a formal mold assessment with air sampling and a written report is a separate service typically performed by a licensed mold assessment consultant. In Texas, mold assessment and mold remediation are licensed separately by the state. If a single company offers to assess and remediate in one step without explaining that distinction, ask how they handle the separation of those roles."}]
 published_at: "2026-09-01"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
