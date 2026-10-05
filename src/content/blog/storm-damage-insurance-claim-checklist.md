@@ -74,7 +74,7 @@ Consider calling a restoration contractor:
 
 - **Before the adjuster arrives**, if you want someone to walk the property with you and identify damage you might have missed, especially hidden moisture behind walls or in the attic.
 - **If the adjuster's estimate seems low**, a contractor can provide a detailed scope of work that documents what it will actually cost to restore the property to its pre-loss condition.
-- **If there's any water intrusion**, even a small amount. Water that entered during the storm can migrate further than the visible staining suggests. Drywall, insulation, and wood framing can hold moisture for weeks before you see or smell the result. Thermal imaging and moisture meters find it before it becomes a mold problem.
+- **If there's any [water intrusion](/services/water-damage-restoration/)**, even a small amount. Water that entered during the storm can migrate further than the visible staining suggests. Drywall, insulation, and wood framing can hold moisture for weeks before you see or smell the result. Thermal imaging and moisture meters find it before it becomes a mold problem.
 - **For the restoration work itself.** Storm damage restoration covers more than roofing, it includes structural drying, interior repairs, content handling, and in some cases reconstruction. A contractor experienced in insurance work can bill the carrier directly and document the work in the format adjusters expect.
 
 If you're in the Midland area and the storm left you with water intrusion, structural damage, or you're not sure what you're looking at, ACS Enterprise handles storm damage restoration and can help you understand the scope of the loss before your adjuster visit. Reach them at (432) 847-4704.

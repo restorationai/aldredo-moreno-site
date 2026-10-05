@@ -57,7 +57,7 @@ Every hour water sits, it migrates further, under baseboards, into wall cavities
 **What requires professional equipment:**
 - Water that has wicked up into drywall more than a few inches. The surface may feel dry while the interior stays saturated, a moisture meter is the only reliable way to know.
 - Water under hardwood or engineered wood flooring. You may not see it, but you will hear it: a soft, spongy feel underfoot or a faint crackling when you walk. Drying this correctly requires desiccant dehumidifiers and floor mats, not just fans.
-- Any water that touched sewage or backed up through a floor drain. That is a Category 3 loss and requires protective equipment and antimicrobial treatment, not a DIY situation.
+- Any water that touched sewage or backed up through a floor drain. That is a [Category 3 loss](/services/sewage-cleanup/) and requires protective equipment and antimicrobial treatment, not a DIY situation.
 
 ## What NOT to Do in the First 24 Hours
 

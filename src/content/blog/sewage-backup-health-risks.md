@@ -54,7 +54,7 @@ Notice what's not on this list: cleaning, disinfecting, or removing anything. Th
 
 **Don't assume it's dry because it looks dry.** Subfloor plywood, wall framing, and insulation can hold significant moisture while the surface feels dry to the touch. Moisture meters and thermal imaging cameras reveal what your hand cannot. Leaving hidden moisture behind is how a sewage backup turns into a mold remediation job weeks later.
 
-**Don't run HVAC to dry things out.** If your ductwork passes through the affected area, running the system pulls contaminated air through the ducts and distributes it to every room in the house. Shut the system off until the area has been assessed.
+**Don't run HVAC to dry things out.** If your ductwork passes through the affected area, running the system pulls contaminated air through the [ducts](/services/air-duct-cleaning/) and distributes it to every room in the house. Shut the system off until the area has been assessed.
 
 ## When to Call a Professional, and Why the Threshold Is Lower Than You Think
 

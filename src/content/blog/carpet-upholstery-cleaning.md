@@ -43,7 +43,7 @@ A 1,500 square foot home with 3-4 carpeted rooms typically runs 2.5 to 4 hours f
 
 ## How is upholstery cleaning different from carpet cleaning?
 
-Upholstery cleaning uses lower water pressure and gentler chemistry than carpet extraction because fabric codes vary widely. The tag on your furniture has a cleaning code: W (water-based cleaner safe), S (solvent only), WS (either), or X (vacuum only). A professional checks this before touching the piece.
+[Upholstery cleaning](/services/upholstery-cleaning/) uses lower water pressure and gentler chemistry than carpet extraction because fabric codes vary widely. The tag on your furniture has a cleaning code: W (water-based cleaner safe), S (solvent only), WS (either), or X (vacuum only). A professional checks this before touching the piece.
 
 For W and WS fabrics, the process is similar to carpet: pre-treatment, low-moisture extraction, and grooming. For S-coded fabrics, dry-cleaning solvents are used instead of water. X-coded pieces should only be vacuumed, and a reputable tech will tell you that upfront rather than risk shrinkage or color bleeding.
 
