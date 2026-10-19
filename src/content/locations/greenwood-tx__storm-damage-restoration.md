@@ -39,7 +39,7 @@ When a storm damage call comes in from Greenwood, the first priority is stopping
 
 Once the structure is stabilized, the team conducts a full moisture mapping survey using thermal imaging and calibrated moisture meters. Water that enters through a roof breach doesn't stay at the ceiling, it follows framing members, runs along top plates, and can reach wall cavities two or three rooms away from the visible damage. Finding the full extent of intrusion before drying begins is what separates a complete restoration from one that leaves hidden moisture to feed mold growth weeks later.
 
-Debris removal, structural drying, and material replacement are sequenced based on what the inspection reveals. Exterior repairs, roofing, siding, window replacement, are coordinated with the interior drying timeline so the building envelope is closed before finish work begins.
+Debris removal, structural drying, and material replacement are sequenced based on what the inspection reveals. Exterior repairs, siding, window replacement, are coordinated with the interior drying timeline so the building envelope is closed before finish work begins.
 
 ## Reaching Greenwood from Midland
 

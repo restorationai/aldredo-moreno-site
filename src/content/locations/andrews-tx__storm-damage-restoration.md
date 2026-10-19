@@ -41,7 +41,7 @@ Once the structure is stabilized, we document the full scope of damage with phot
 
 Drying equipment goes in as soon as affected materials are identified. In Andrews' low-humidity environment, drying times for structural materials can be faster than in coastal Texas, but that same dry air can mask moisture readings if equipment is placed incorrectly. We take sequential moisture readings across multiple days rather than pulling equipment based on a single measurement.
 
-Reconstruction follows once materials are confirmed dry and structurally sound: roofing, siding, drywall, insulation, flooring, and any interior finishes affected by the event.
+Reconstruction follows once materials are confirmed dry and structurally sound: siding, drywall, insulation, flooring, and any interior finishes affected by the event.
 
 ## Reaching Andrews from Midland
 

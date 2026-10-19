@@ -40,7 +40,7 @@ Every storm loss is different, but the sequence of work follows a consistent log
 
 **Drying and dehumidification.** Once the structure is secured, commercial drying equipment is deployed to bring moisture levels back to baseline. In the Permian Basin's low-humidity climate, ambient air can assist drying, but materials like OSB sheathing and blown insulation still require active equipment to dry fully, and we monitor readings daily until clearance is reached.
 
-**Repairs and reconstruction.** Roofing, siding, windows, drywall, and flooring are repaired or replaced to match pre-loss condition, coordinated with your insurance adjuster's scope.
+**Repairs and reconstruction.** Siding, windows, drywall, and flooring are repaired or replaced to match pre-loss condition, coordinated with your insurance adjuster's scope.
 
 ## Reaching Goldsmith from Midland
 
