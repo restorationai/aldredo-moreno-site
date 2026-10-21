@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Garden City, TX | ACS Enterprise "
 h1: "Restoration Services in Garden City"
-meta_description: "Serving Garden City, TX with water, fire, mold, and storm damage restoration. Experienced team. Call (432) 847-4704."
+meta_description: "Serving Garden City, TX with water, sewage, and storm damage restoration. Experienced team. Call (432) 847-4704."
 primary_keyword: "restoration services garden city"
 secondary_keywords: ["garden city restoration company", "damage restoration garden city", "garden city disaster restoration"]
 search_intent: "local_commercial"

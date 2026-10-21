@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Monahans, TX | ACS Enterprise "
 h1: "Restoration Services in Monahans"
-meta_description: "Serving Monahans, TX with water, fire, mold, and storm damage restoration. Experienced team. Call (432) 847-4704."
+meta_description: "Serving Monahans, TX with water, sewage, and storm damage restoration. Experienced team. Call (432) 847-4704."
 primary_keyword: "restoration services monahans"
 secondary_keywords: ["monahans restoration company", "damage restoration monahans", "monahans disaster restoration"]
 search_intent: "local_commercial"

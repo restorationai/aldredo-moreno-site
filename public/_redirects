@@ -138,4 +138,23 @@
 /service-areas/stanton-tx/water-cleanup/ /service-areas/stanton-tx/emergency-water-removal/ 301
 /service-areas/west-odessa-tx/water-cleanup /service-areas/west-odessa-tx/emergency-water-removal/ 301
 /service-areas/west-odessa-tx/water-cleanup/ /service-areas/west-odessa-tx/emergency-water-removal/ 301
+# services ACS does not offer removed 2026-10-21 (Alfredo: "services we DO NOT provide")
+/services/fire-damage-restoration /services/water-damage-restoration/ 301
+/services/fire-damage-restoration/ /services/water-damage-restoration/ 301
+/services/mold-remediation /services/water-damage-restoration/ 301
+/services/mold-remediation/ /services/water-damage-restoration/ 301
+/services/mold-inspection-testing /services/water-damage-restoration/ 301
+/services/mold-inspection-testing/ /services/water-damage-restoration/ 301
+/services/smoke-damage-restoration /services/ 301
+/services/smoke-damage-restoration/ /services/ 301
+/services/reconstruction /services/ 301
+/services/reconstruction/ /services/ 301
 /about-us/blog/* /blog/ 301
+/blog/fire-damage-restoration-process/ /blog/ 301
+/blog/how-to-test-for-mold/ /blog/ 301
+/blog/how-to-test-for-mold /blog/ 301
+/blog/black-mold-vs-regular-mold/ /blog/ 301
+/blog/black-mold-vs-regular-mold /blog/ 301
+/blog/signs-of-hidden-mold/ /blog/ 301
+/blog/signs-of-hidden-mold /blog/ 301
+/blog/fire-damage-restoration-process /blog/ 301

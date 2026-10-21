@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Odessa, TX | ACS Enterprise "
 h1: "Restoration Services in Odessa"
-meta_description: "Serving Odessa, TX with water, fire, mold, and storm damage restoration. Experienced team. Call (432) 847-4704."
+meta_description: "Serving Odessa, TX with water, sewage, and storm damage restoration. Experienced team. Call (432) 847-4704."
 primary_keyword: "restoration services odessa"
 secondary_keywords: ["odessa restoration company", "damage restoration odessa", "odessa disaster restoration"]
 search_intent: "local_commercial"

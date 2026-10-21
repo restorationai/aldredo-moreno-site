@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Stanton, TX | ACS Enterprise "
 h1: "Restoration Services in Stanton"
-meta_description: "Serving Stanton, TX with water, fire, mold, and storm damage restoration. Experienced team. Call (432) 847-4704."
+meta_description: "Serving Stanton, TX with water, sewage, and storm damage restoration. Experienced team. Call (432) 847-4704."
 primary_keyword: "restoration services stanton"
 secondary_keywords: ["stanton restoration company", "damage restoration stanton", "stanton disaster restoration"]
 search_intent: "local_commercial"

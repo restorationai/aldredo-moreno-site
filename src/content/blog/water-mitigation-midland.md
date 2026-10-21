@@ -41,7 +41,7 @@ Knowing the category matters because it determines what can be saved and what ha
 
 ## How Does the Water Mitigation Process Work?
 
-A professional water mitigation job in Midland follows a structured sequence. Skipping steps, or trying to DIY it with box fans, is how a $4,000 mitigation turns into a $25,000 mold remediation six weeks later.
+A professional water mitigation job in Midland follows a structured sequence. Skipping steps, or trying to DIY it with box fans, is how a $4,000 mitigation turns into a $25,000 mold problem six weeks later.
 
 **Step 1: Assessment and moisture mapping.** The crew uses a thermal imaging camera and calibrated moisture meters (pin-type and non-invasive) to map where water has traveled. In a slab-foundation home common in Midland's older neighborhoods near Wadley Avenue or the Greenwood area, water often migrates under the slab and into interior walls before you see it on the surface.
 

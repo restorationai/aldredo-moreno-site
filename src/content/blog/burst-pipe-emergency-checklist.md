@@ -84,7 +84,7 @@ Stopping the water is the beginning, not the end. Full recovery from a pipe burs
 2. **Drying**, Industrial air movers and dehumidifiers run continuously, often for three to five days depending on materials and ambient conditions. Midland's low humidity can help drying times, but materials like OSB subfloor and dense insulation hold moisture longer than the air around them suggests.
 3. **Moisture monitoring**, Daily readings with a moisture meter track whether materials are trending toward dry. Drying is not complete until readings reach acceptable baselines for the specific material type.
 4. **Demolition of unsalvageable materials**, Saturated drywall, insulation, and flooring that cannot be dried in place are removed. This is not optional, wet materials left inside a wall become a long-term mold problem.
-5. **Mold assessment**, If the water sat for more than 24 to 48 hours before drying began, a mold assessment may be warranted before reconstruction starts.
+5. **Mold check**, If the water sat for more than 24 to 48 hours before drying began, have the area checked for mold before repairs start.
 6. **Reconstruction**, New drywall, insulation, flooring, and paint bring the space back to its pre-loss condition.
 
 Insurance typically covers sudden and accidental water damage from a burst pipe. Keep all receipts, contractor invoices, and documentation from every phase, your adjuster will need them.

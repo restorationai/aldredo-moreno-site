@@ -2,7 +2,7 @@
 archetype: "service-area"
 title: "Restoration Services in Greenwood, TX | ACS Enterprise "
 h1: "Restoration Services in Greenwood"
-meta_description: "Serving Greenwood, TX with water, fire, mold, and storm damage restoration. Experienced team. Call (432) 847-4704."
+meta_description: "Serving Greenwood, TX with water, sewage, and storm damage restoration. Experienced team. Call (432) 847-4704."
 primary_keyword: "restoration services greenwood"
 secondary_keywords: ["greenwood restoration company", "damage restoration greenwood", "greenwood disaster restoration"]
 search_intent: "local_commercial"
