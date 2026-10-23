@@ -26,13 +26,13 @@ A storm doesn't announce how much damage it leaves behind. The tree limb that pu
 
 Storm losses in West Texas come in several forms: hail that strips roofing and drives water through compromised flashing, high-wind events that open walls or lift roofing sections, and the flash flooding that follows a hard Permian Basin downpour on ground that doesn't absorb water quickly. Each entry point creates a different water intrusion pattern inside the structure.
 
-The work begins at the exterior. Temporary protective measures, like board-up, stop the water source before any interior drying can be meaningful. Once the envelope is secured, the focus shifts inward: tracing moisture migration through walls and subfloors using thermal imaging and calibrated moisture meters, extracting any standing water, and setting drying equipment where the readings are elevated, not just where the damage is visible.
+The work begins at the exterior. Temporary protective measures, like [emergency board up](/services/emergency-board-up/), stop the water source before any interior drying can be meaningful. Once the envelope is secured, the focus shifts inward: tracing moisture migration through walls and subfloors using thermal imaging and calibrated moisture meters, extracting any standing water, and setting drying equipment where the readings are elevated, not just where the damage is visible.
 
 Debris removal runs parallel to all of this. Insulation that has absorbed water, drywall that has delaminated, soaked personal property that is blocking airflow, all of it needs to come out before drying equipment can work efficiently. Storm cleanup services are not a single task; they are a sequenced set of steps where the order matters.
 
 ## Our process
 
-1. **Exterior stabilization first.** Before anything else, the opening that let water in gets covered. Broken windows and compromised siding get boarded. ACS does not do roofing work, so an open roof goes to your roofer. This step is what separates a contained loss from one that keeps growing with the next rain.
+1. **Exterior stabilization first.** Before anything else, the opening that let water in gets covered. Broken windows, doors and compromised siding get boarded with our [emergency board up](/services/emergency-board-up/) service. ACS does not do roofing work, so an open roof goes to your roofer. This step is what separates a contained loss from one that keeps growing with the next rain.
 
 2. **Moisture mapping of the interior.** Every affected room gets documented with moisture readings at the wall, floor, and ceiling plane. Thermal imaging identifies wet areas that look dry at the surface. This mapping becomes the baseline the drying equipment targets and the documentation the insurance adjuster reviews.
 

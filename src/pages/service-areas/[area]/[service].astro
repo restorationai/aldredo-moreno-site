@@ -37,6 +37,13 @@ const heroImage = data.hero || serviceImage(data.service_slug, "/images/hero-bg.
 // wording only appears when brand.ts actually backs it up.
 const dispatch = dispatchSentence(data.city);
 
+// Board-up cross-link on storm pages (Alfredo 2026-10-23: "you can ad to our
+// website and ads is emergency board up"). Shown only when the site has the
+// board-up service page, so other sites built from this file are unaffected.
+const boardUp = data.service_slug === "storm-damage-restoration"
+  ? (await getCollection("services")).find((s) => s.data.service_slug === "emergency-board-up")
+  : undefined;
+
 // Guarantee a localized response-time FAQ on every service-area page — the "how fast
 // can you arrive in {city}?" question people actually ask. Visible + folded into the
 // FAQPage schema, and consistent with the 60-min CtaBanner copy below. 24/7
@@ -116,6 +123,16 @@ const faq = [...responseFaq, ...baseFaq, ...insuranceFaq];
       <div class="prose-body">
         <Content />
       </div>
+      {boardUp && (
+        <div class="max-w-content mx-auto mt-10 rounded-2xl border border-dark/10 bg-dark/5 p-6">
+          <p class="font-bold mb-2">Broken window or door after the storm?</p>
+          <p class="text-dark/85">
+            We provide <a href="/services/emergency-board-up/">emergency board up</a> in {data.city}: plywood
+            cut to fit and fastened over broken windows, doors and wall openings so the building stays closed
+            to rain and intruders until repairs are made. Call <a href={`tel:${brand.phoneRaw}`}>{brand.phone}</a>.
+          </p>
+        </div>
+      )}
     </div>
   </section>
 
