@@ -37,7 +37,7 @@ Crane's older sewer laterals can root-intrude or back up during heavy rain event
 
 ### Storm damage cleanup
 
-West Texas storms bring wind-driven debris, hail, and occasional flash flooding. After a storm passes, the immediate priority is stopping additional water entry: tarping roof penetrations, boarding openings, and extracting water that entered through damaged areas. ACS handles that protective work and the subsequent cleanup so the structure is stable while rebuild contractors are scheduled separately.
+West Texas storms bring wind-driven debris, hail, and occasional flash flooding. After a storm passes, the immediate priority is stopping additional water entry: boarding openings and extracting water that entered through damaged areas. ACS handles that protective work and the subsequent cleanup so the structure is stable while rebuild contractors are scheduled separately.
 
 ### Carpet, air duct, tile, and grout cleaning
 

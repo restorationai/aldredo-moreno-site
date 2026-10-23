@@ -37,7 +37,7 @@ Every job starts with a full exterior and interior assessment, roof decking, fas
 
 From there, the sequence depends on what the storm left behind:
 
-- **Roof and envelope stabilization**: If the roofline is open to weather, we install temporary tarping or board-up before any interior work begins. Leaving a compromised roof exposed while addressing interior water damage is working backwards.
+- **Envelope stabilization**: If windows or doors are open to weather, we board them up before any interior work begins. ACS does not do roofing work, so an open roof should be covered by your roofer first. Leaving the structure exposed while addressing interior water damage is working backwards.
 - **Water extraction and drying**: Storm-driven water intrusion is treated with the same urgency as a burst pipe. We use moisture meters and thermal imaging to locate water that has tracked behind walls or under flooring, areas that feel dry underfoot but are actively feeding mold conditions.
 - **Debris and tree damage cleanup**: Wind-thrown branches and downed trees require careful removal to avoid additional structural damage during extraction. We stage equipment to protect driveways and landscaping where possible.
 - **Structural assessment and repair coordination**: Once the structure is dry and stabilized, we document repair scope for the insurance adjuster and can coordinate or perform the reconstruction work directly, reducing the number of contractors a homeowner has to manage.

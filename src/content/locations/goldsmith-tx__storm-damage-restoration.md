@@ -32,7 +32,7 @@ The local housing stock adds another layer of complexity. Many homes and commerc
 
 Every storm loss is different, but the sequence of work follows a consistent logic: stop further damage first, document thoroughly, then restore.
 
-**Stabilization and tarping.** When wind or hail has opened a roof or broken out windows, the first priority is preventing additional water intrusion. We cover breached areas with heavy-duty tarps or board-up materials before rain has a chance to compound interior damage.
+**Stabilization.** When wind or hail has broken out windows, the first priority is preventing additional water intrusion. We board up breached openings before rain has a chance to compound interior damage. ACS does not do roofing work, so a roof opening should go to your roofer.
 
 **Moisture mapping and documentation.** Water that enters through a storm breach doesn't stay where it lands. We use moisture meters and thermal imaging to trace where water has migrated, behind walls, under flooring, into insulation cavities, and document every affected area with photographs and written measurements. This documentation is the foundation of a defensible insurance claim.
 

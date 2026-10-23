@@ -33,7 +33,7 @@ Soil in this part of West Texas also tends to be sandy and expansive, which mean
 
 ## Our Storm Damage Restoration Process in Crane
 
-The first priority after a storm is stopping the damage from growing. That means emergency tarping of any roof breach, boarding compromised windows or doors, and identifying where water has already entered the structure. We use moisture meters and thermal imaging to map saturation behind walls and under flooring, because water in a West Texas home doesn't always pool visibly. It wicks into insulation, collects above ceiling tiles, and sits behind baseboards.
+The first priority after a storm is stopping the damage from growing. That means boarding compromised windows or doors and identifying where water has already entered the structure. We use moisture meters and thermal imaging to map saturation behind walls and under flooring, because water in a West Texas home doesn't always pool visibly. It wicks into insulation, collects above ceiling tiles, and sits behind baseboards.
 
 Once the structure is stabilized, we document the full scope of damage with photographs and written reports formatted for insurance review. Drying equipment, including industrial air movers and dehumidifiers, is placed based on the moisture map, not guesswork. We monitor readings daily until materials reach acceptable dryness levels before any reconstruction begins. Skipping that step in Crane's dry climate is a common mistake: low outdoor humidity can make a wall feel dry at the surface while the interior framing is still holding significant moisture.
 

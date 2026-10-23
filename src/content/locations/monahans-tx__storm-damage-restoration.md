@@ -33,7 +33,7 @@ The housing stock in Monahans skews older, with a significant share of homes bui
 
 ## Our Storm Damage Restoration Process in Monahans
 
-The first priority after any storm event is stabilizing the structure to stop ongoing damage. That means tarping breached roof sections, boarding compromised windows or doors, and identifying any standing water before it migrates further into wall assemblies or subfloor materials.
+The first priority after any storm event is stabilizing the structure to stop ongoing damage. That means boarding compromised windows or doors and identifying any standing water before it migrates further into wall assemblies or subfloor materials.
 
 Once the structure is secured, the assessment phase documents every affected surface, from hail strikes on exterior cladding to moisture readings inside wall cavities. Documentation matters here not just for the repair scope but for the insurance claim process, and thorough photo and moisture-log records from the first visit prevent disputes later.
 

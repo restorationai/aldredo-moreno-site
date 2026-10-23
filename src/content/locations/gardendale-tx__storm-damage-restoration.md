@@ -33,13 +33,13 @@ Homes built during the oil-boom construction cycles common to this part of West 
 
 ## Our Storm Damage Restoration Process in Gardendale
 
-The first priority after any severe weather event is stopping new damage from entering the structure. That means emergency tarping of breached roofs, board-up of broken windows and doors, and a full perimeter walk to identify points where water has already infiltrated. Once the structure is stabilized, the work shifts to documentation, photographs, moisture mapping, and a written scope that can be handed directly to an insurance adjuster.
+The first priority after any severe weather event is stopping new damage from entering the structure. That means board-up of broken windows and doors and a full perimeter walk to identify points where water has already infiltrated. Once the structure is stabilized, the work shifts to documentation, photographs, moisture mapping, and a written scope that can be handed directly to an insurance adjuster.
 
 From there, the process moves to debris removal and material assessment. Wind-driven tree limbs and roofing material need to come off before any structural evaluation is meaningful. Interior work, drying wet insulation, removing saturated drywall, treating any surfaces where moisture has been sitting long enough to support microbial growth, follows a systematic drying protocol that uses readings rather than guesswork to confirm when materials are genuinely dry, not just dry at the surface. Reconstruction and finish work close out the job once the structure passes that threshold.
 
 ## Reaching Gardendale from Midland
 
-ACS Enterprise's base in Midland puts the Gardendale area within practical reach for prompt scheduling. The drive out via the routes connecting Midland to Ector County is straightforward, which matters when a homeowner is watching a tarp flap in the wind and needs a crew on-site the same day. When you call (432) 847-4704, the conversation starts with understanding what's happening at the property right now, roof open to the sky, water on the floor, or something less urgent, so the response can be matched to the actual situation.
+ACS Enterprise's base in Midland puts the Gardendale area within practical reach for prompt scheduling. The drive out via the routes connecting Midland to Ector County is straightforward, which matters when a homeowner is watching water come through the ceiling and needs a crew on-site the same day. When you call (432) 847-4704, the conversation starts with understanding what's happening at the property right now, roof open to the sky, water on the floor, or something less urgent, so the response can be matched to the actual situation.
 
 ## Storm Damage Insurance Coordination in Gardendale
 

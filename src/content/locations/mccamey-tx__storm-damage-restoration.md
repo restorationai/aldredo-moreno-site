@@ -33,7 +33,7 @@ McCamey's housing stock includes a significant number of older single-story home
 
 ## Our Storm Damage Cleanup Process in McCamey
 
-When a storm tears through this part of Upton County, the first priority is stopping additional water from entering the structure. That means tarping compromised roofing, boarding damaged openings, and clearing debris that is blocking drainage before it redirects runoff into the building. ACS Enterprise handles that protective work as part of the cleanup scope, not as a separate add-on.
+When a storm tears through this part of Upton County, the first priority is stopping additional water from entering the structure. That means boarding damaged openings and clearing debris that is blocking drainage before it redirects runoff into the building. ACS Enterprise handles that protective work as part of the cleanup scope, not as a separate add-on.
 
 Once the structure is stabilized, the team moves to water extraction and drying. Standing water is removed with truck-mounted or portable extraction equipment, and industrial air movers and dehumidifiers are deployed to address moisture in materials that look dry at the surface but are still holding water underneath. In McCamey's climate, low ambient humidity can create a false sense of progress. Moisture meters and thermal imaging give a more accurate picture of what is actually happening inside walls and under flooring.
 

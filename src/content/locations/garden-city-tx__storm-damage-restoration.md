@@ -35,7 +35,7 @@ The region also experiences hail events that can be severe enough to compromise 
 
 ## Our Storm Damage Restoration Process in Garden City
 
-The first priority after any storm loss is stopping ongoing water intrusion. Before any drying equipment is staged, the crew assesses the roof and exterior envelope for openings and installs temporary tarping or board-up protection where needed. This step matters especially in Garden City, where a second storm system can follow within 24 to 48 hours of the first during active weather seasons.
+The first priority after any storm loss is stopping ongoing water intrusion. Before any drying equipment is staged, the crew assesses the exterior envelope for openings, installs board-up protection on broken windows and doors where needed, and flags any roof opening for your roofer to cover. This step matters especially in Garden City, where a second storm system can follow within 24 to 48 hours of the first during active weather seasons.
 
 Once the building is secured against further intrusion, moisture mapping begins. Technicians use thermal imaging and calibrated moisture meters to trace water migration through wall assemblies, insulation, and subfloor materials. In ranch-style homes with slab foundations, which are common throughout this part of Glasscock County, water that enters through a compromised exterior wall has nowhere to drain downward and instead saturates the base plate and lower wall framing.
 
@@ -49,7 +49,7 @@ ACS Enterprise is based in Midland, and Garden City is accessible via US-87 sout
 
 Storm damage claims in rural West Texas often involve adjusters who cover wide geographic territories, which can mean a delay between the storm event and the adjuster's on-site inspection. ACS Enterprise prepares detailed documentation, including moisture readings, photographs of the damage sequence, and a written scope of affected materials, so that when the adjuster does arrive, the claim file is complete and the condition of the property at the time of loss is clearly established.
 
-This documentation also matters if a homeowner's policy requires proof that reasonable protective measures were taken promptly. The tarping and board-up work completed at the start of the job is photographed and timestamped for exactly that purpose.
+This documentation also matters if a homeowner's policy requires proof that reasonable protective measures were taken promptly. The board-up work completed at the start of the job is photographed and timestamped for exactly that purpose.
 
 ## Local Note
 

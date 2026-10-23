@@ -35,7 +35,7 @@ Tree damage is a separate category worth noting. The area's caliche-heavy soils 
 
 ## Our Storm Damage Restoration Process in Greenwood
 
-When a storm damage call comes in from Greenwood, the first priority is stopping ongoing exposure. That means tarping breached rooflines, boarding compromised windows or doors, and identifying any points where water has already entered the structure. This emergency stabilization phase happens before any detailed assessment, because a roof open to the sky during a second storm event can turn a manageable claim into a gut-renovation.
+When a storm damage call comes in from Greenwood, the first priority is stopping ongoing exposure. That means boarding compromised windows or doors and identifying any points where water has already entered the structure. This emergency stabilization phase happens before any detailed assessment, because a roof open to the sky during a second storm event can turn a manageable claim into a gut-renovation.
 
 Once the structure is stabilized, the team conducts a full moisture mapping survey using thermal imaging and calibrated moisture meters. Water that enters through a roof breach doesn't stay at the ceiling, it follows framing members, runs along top plates, and can reach wall cavities two or three rooms away from the visible damage. Finding the full extent of intrusion before drying begins is what separates a complete restoration from one that leaves hidden moisture to feed mold growth weeks later.
 
