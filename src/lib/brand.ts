@@ -64,7 +64,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "367",
+  gbpReviewCount: "366",
   gbpReviews: [
     { author: "Mauricio", rating: 5, text: "Very good communication and professional!!! Highly recommended 💯💯💯", when: "October 2026" },
     { author: "Guillermo", rating: 5, text: "Good service, fast and efficient I would call them back for any Air duct cleaning or carpet cleaning", when: "October 2026" },
