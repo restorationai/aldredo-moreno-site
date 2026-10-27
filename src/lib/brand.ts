@@ -6,13 +6,13 @@ export const brand = {
   slug: "aldredo-moreno",
   displayName: "ACS Enterprise ",
   shortName: "ACS Enterprise ",
-  legalName: "ACS Enterprise ",
+  legalName: "AMERICAN CLEANING SOLUTIONS LLC",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "ACS Enterprise",
   domain: "theacsenterprises.com",
   canonicalUrl: "https://theacsenterprises.com",
   phone: "(432) 847-4704",
