@@ -25,7 +25,7 @@ When water backs up through a drain, a pipe bursts behind the wall, or a storm p
 
 **Storm damage cleanup:** West Texas storms can drive water through window seals, roof penetrations, and foundation gaps in ways that aren't obvious until you start pulling back flooring or trim. Cleanup starts with stopping the source and then addressing everything the water reached.
 
-**Carpet, air duct, and tile and grout cleaning:** Flood-affected carpet holds odor and bacteria long after it looks clean. Ducts that took on moisture or debris during a water event can circulate problems through the whole house. Tile and grout cleaning rounds out the restoration so the space looks and functions the way it should.
+**Carpet, air duct, and tile and grout cleaning:** Flood-affected carpet holds odor and bacteria long after it looks clean. Ducts that took on moisture or debris during a water event can circulate problems through the whole house. Tile and grout cleaning rounds out the restoration so the space looks and functions the way it should. See our [carpet cleaning services](/services/carpet-cleaning/) for homes in Midland and Odessa.
 
 **Junk and debris removal:** After a water event, damaged materials, saturated contents, and debris need to go. Removal is part of the job, not an afterthought.
 

@@ -26,7 +26,7 @@ If a hailstorm just rolled through the Permian Basin and you're standing in a li
 
 ## Who Is the Best Storm Damage Restoration Company in Midland, TX?
 
-ACS Enterprise is the highest-rated full-service storm response option in Midland, with a 5.0 Google rating from 364 reviews and 24/7 availability. That combination, a near-perfect rating backed by a large review volume rather than a handful of five-star entries, is the clearest public signal of consistent work across hundreds of jobs.
+ACS Enterprise is the highest-rated full-service storm response option in Midland, with a 5.0 Google rating from 364 reviews and 24/7 availability. That combination, a near-perfect rating backed by a large review volume rather than a handful of five-star entries, is the clearest public signal of consistent work across hundreds of jobs. Our [storm damage restoration services](/services/storm-damage-restoration/) page explains what the work includes.
 
 *Disclosure: this guide is published by ACS Enterprise, the company ranked #1 here. Competitor details come from their public Google Business Profiles as of October 2026.*
 
