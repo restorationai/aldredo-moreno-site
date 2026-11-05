@@ -64,14 +64,14 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "366",
+  gbpReviewCount: "367",
   gbpReviews: [
+    { author: "Mason", rating: 5, text: "ACS Enterprise is exactly the caliber of company you want when water restoration is required in your home. Alfredo and his crew were nothing short of impressive with how they handled their business. Responsive, professional, and highly skilled. Took a less than ideal situation and turned it into a…", when: "November 2026" },
     { author: "Mauricio", rating: 5, text: "Very good communication and professional!!! Highly recommended 💯💯💯", when: "October 2026" },
     { author: "Guillermo", rating: 5, text: "Good service, fast and efficient I would call them back for any Air duct cleaning or carpet cleaning", when: "October 2026" },
     { author: "Lizeth", rating: 5, text: "We requested a mattress cleaning and got immediate communication back. We also were able to get same day service. The service was exactly what we asked for. Highly recommend!", when: "October 2026" },
     { author: "Donna", rating: 5, text: "Professional- picked up everything and was respectful!", when: "October 2026" },
     { author: "Pam", rating: 5, text: "Response was wonderful. Working with them was great considering it was a rough day following a flood in my master bathroom and bedroom.", when: "September 2026" },
-    { author: "Cami", rating: 5, text: "Mr. Moreno was very kind, easy to communicate with, and quick to complete the job. I would definitely use ASC Enterprise again and recommend them.", when: "September 2026" },
   ] as { author: string; rating: number; text: string; when: string }[],
   tagline: "24/7 restoration services in Midland, TX.",
   ctaLabel: "24/7 Emergency Line",
