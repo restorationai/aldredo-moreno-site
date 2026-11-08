@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | ACS Enterprise  Restoration"
+title: "Service Areas | ACS Enterprise Restoration"
 h1: "Areas We Serve"
 meta_description: "ACS Enterprise provides restoration services across Midland and the surrounding region. Find your city."
 primary_keyword: "acs enterprise  service areas"
