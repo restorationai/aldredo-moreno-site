@@ -149,7 +149,6 @@
 /services/smoke-damage-restoration/ /services/ 301
 /services/reconstruction /services/ 301
 /services/reconstruction/ /services/ 301
-/about-us/blog/* /blog/ 301
 /blog/fire-damage-restoration-process/ /blog/ 301
 /blog/how-to-test-for-mold/ /blog/ 301
 /blog/how-to-test-for-mold /blog/ 301
@@ -158,3 +157,4 @@
 /blog/signs-of-hidden-mold/ /blog/ 301
 /blog/signs-of-hidden-mold /blog/ 301
 /blog/fire-damage-restoration-process /blog/ 301
+/about-us/blog/* /blog/ 301
