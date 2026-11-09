@@ -10,7 +10,7 @@ priority: 2.5
 plan_hash: "ae0da2876586a4e1"
 generated_at: "2026-09-19T23:55:40.167775+00:00"
 manual_override: false
-internal_links: ["/", "/services/", "/contact/"]
+internal_links: ["/", "/services/", "/contact/", "/services/carpet-cleaning/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "About"}]
 faq: [{"question": "How long has ACS Enterprise been in business?", "answer": "ACS Enterprise was founded in 2019 and has been serving property owners in the Midland and Odessa area since then. The company focuses specifically on water damage restoration and related cleanup services in the Permian Basin region."}, {"question": "What cities and areas does ACS Enterprise serve?", "answer": "The primary service area is Midland and Odessa, along with surrounding communities in Midland and Ector counties. If you are unsure whether your location falls within the service area, call (432) 847-4704 and the team can confirm quickly."}, {"question": "Who owns or runs ACS Enterprise?", "answer": "ACS Enterprise is a locally based company headquartered in Midland, TX. For questions about the team or leadership, the best step is to call directly at (432) 847-4704."}]
 rendered: true
