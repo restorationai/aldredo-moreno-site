@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Industrial Restoration in Midland | ACS Enterprise "
+title: "Industrial Restoration in Midland | ACS Enterprise"
 h1: "Industrial Restoration in Midland"
 meta_description: "Industrial restoration in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "industrial restoration midland"

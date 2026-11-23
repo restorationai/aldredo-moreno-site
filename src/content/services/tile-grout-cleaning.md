@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Tile & Grout Cleaning in Midland | ACS Enterprise "
+title: "Tile & Grout Cleaning in Midland | ACS Enterprise"
 h1: "Tile & Grout Cleaning in Midland"
 meta_description: "Tile & grout cleaning in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "tile & grout cleaning midland"

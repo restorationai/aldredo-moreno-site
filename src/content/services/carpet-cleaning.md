@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Carpet Cleaning in Midland | ACS Enterprise "
+title: "Carpet Cleaning in Midland | ACS Enterprise"
 h1: "Carpet Cleaning in Midland"
 meta_description: "Carpet cleaning in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "carpet cleaning midland"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Big Lake, TX | ACS Enterprise "
+title: "Upholstery Cleaning in Big Lake, TX | ACS Enterprise"
 h1: "Upholstery Cleaning in Big Lake"
 meta_description: "Upholstery cleaning in Big Lake, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning big lake"

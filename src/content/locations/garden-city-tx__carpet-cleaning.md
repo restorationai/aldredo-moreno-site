@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Garden City, TX | ACS Enterprise "
+title: "Carpet Cleaning in Garden City, TX | ACS Enterprise"
 h1: "Carpet Cleaning in Garden City"
 meta_description: "Carpet cleaning in Garden City, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "carpet cleaning garden city"

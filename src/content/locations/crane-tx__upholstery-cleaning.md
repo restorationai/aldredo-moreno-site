@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Crane, TX | ACS Enterprise "
+title: "Upholstery Cleaning in Crane, TX | ACS Enterprise"
 h1: "Upholstery Cleaning in Crane"
 meta_description: "Upholstery cleaning in Crane, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning crane"

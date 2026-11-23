@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Greenwood, TX | ACS Enterprise "
+title: "Upholstery Cleaning in Greenwood, TX | ACS Enterprise"
 h1: "Upholstery Cleaning in Greenwood"
 meta_description: "Upholstery cleaning in Greenwood, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning greenwood"

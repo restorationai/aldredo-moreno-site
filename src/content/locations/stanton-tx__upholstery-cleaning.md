@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Stanton, TX | ACS Enterprise "
+title: "Upholstery Cleaning in Stanton, TX | ACS Enterprise"
 h1: "Upholstery Cleaning in Stanton"
 meta_description: "Upholstery cleaning in Stanton, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning stanton"

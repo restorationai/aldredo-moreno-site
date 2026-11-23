@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Goldsmith, TX | ACS Enterprise "
+title: "Upholstery Cleaning in Goldsmith, TX | ACS Enterprise"
 h1: "Upholstery Cleaning in Goldsmith"
 meta_description: "Upholstery cleaning in Goldsmith, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning goldsmith"

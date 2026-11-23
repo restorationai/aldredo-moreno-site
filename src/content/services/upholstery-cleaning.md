@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Upholstery Cleaning in Midland | ACS Enterprise "
+title: "Upholstery Cleaning in Midland | ACS Enterprise"
 h1: "Upholstery Cleaning in Midland"
 meta_description: "Upholstery cleaning in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning midland"

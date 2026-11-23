@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Crane, TX | ACS Enterprise "
+title: "Tile & Grout Cleaning in Crane, TX | ACS Enterprise"
 h1: "Tile & Grout Cleaning in Crane"
 meta_description: "Tile & grout cleaning in Crane, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "tile & grout cleaning crane"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Monahans, TX | ACS Enterprise "
+title: "Junk & Debris Removal in Monahans, TX | ACS Enterprise"
 h1: "Junk & Debris Removal in Monahans"
 meta_description: "Junk & debris removal in Monahans, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "junk & debris removal monahans"

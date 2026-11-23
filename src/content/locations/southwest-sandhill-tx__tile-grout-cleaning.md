@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Southwest Sandhill, TX | ACS Enterprise "
+title: "Tile & Grout Cleaning in Southwest Sandhill, TX | ACS Enterprise"
 h1: "Tile & Grout Cleaning in Southwest Sandhill"
 meta_description: "Tile & grout cleaning in Southwest Sandhill, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "tile & grout cleaning southwest sandhill"

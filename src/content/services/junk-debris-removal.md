@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Junk & Debris Removal in Midland | ACS Enterprise "
+title: "Junk & Debris Removal in Midland | ACS Enterprise"
 h1: "Junk & Debris Removal in Midland"
 meta_description: "Junk & debris removal in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "junk & debris removal midland"

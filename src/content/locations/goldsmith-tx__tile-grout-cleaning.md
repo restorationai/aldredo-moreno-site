@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Goldsmith, TX | ACS Enterprise "
+title: "Tile & Grout Cleaning in Goldsmith, TX | ACS Enterprise"
 h1: "Tile & Grout Cleaning in Goldsmith"
 meta_description: "Tile & grout cleaning in Goldsmith, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "tile & grout cleaning goldsmith"

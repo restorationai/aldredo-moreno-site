@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Big Spring, TX | ACS Enterprise "
+title: "Tile & Grout Cleaning in Big Spring, TX | ACS Enterprise"
 h1: "Tile & Grout Cleaning in Big Spring"
 meta_description: "Tile & grout cleaning in Big Spring, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "tile & grout cleaning big spring"

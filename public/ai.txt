@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://theacsenterprises.com/
-# Maintainer: ACS Enterprise 
+# Maintainer: ACS Enterprise
 # Contact: elcabimero1971@gmail.com
 # Sitemap: https://theacsenterprises.com/sitemap-index.xml
 # LLM index: https://theacsenterprises.com/llms.txt

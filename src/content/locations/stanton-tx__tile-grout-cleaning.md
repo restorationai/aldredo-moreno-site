@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Stanton, TX | ACS Enterprise "
+title: "Tile & Grout Cleaning in Stanton, TX | ACS Enterprise"
 h1: "Tile & Grout Cleaning in Stanton"
 meta_description: "Tile & grout cleaning in Stanton, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "tile & grout cleaning stanton"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Renovations, Remodels and General Contracting in Midland | ACS Enterprise "
+title: "Renovations, Remodels and General Contracting in Midland | ACS Enterprise"
 h1: "Renovations, Remodels and General Contracting in Midland"
 meta_description: "Renovations, remodels and general contracting in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "renovations, remodels and general contracting midland"

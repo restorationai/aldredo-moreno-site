@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Southwest Sandhill, TX | ACS Enterprise "
+title: "Upholstery Cleaning in Southwest Sandhill, TX | ACS Enterprise"
 h1: "Upholstery Cleaning in Southwest Sandhill"
 meta_description: "Upholstery cleaning in Southwest Sandhill, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning southwest sandhill"

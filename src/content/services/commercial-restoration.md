@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Commercial Restoration in Midland | ACS Enterprise "
+title: "Commercial Restoration in Midland | ACS Enterprise"
 h1: "Commercial Restoration in Midland"
 meta_description: "Commercial restoration in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "commercial restoration midland"

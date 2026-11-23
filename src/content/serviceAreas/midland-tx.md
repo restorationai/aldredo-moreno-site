@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Serving All of Midland, TX | ACS Enterprise "
+title: "Serving All of Midland, TX | ACS Enterprise"
 h1: "Serving All of Midland"
 meta_description: "ACS Enterprise  is based in Midland, TX. See the parts of Midland we cover and every service we offer here. Call (432) 847-4704."
 primary_keyword: "midland service area"

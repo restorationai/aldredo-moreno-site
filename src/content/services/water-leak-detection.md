@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Water Leak Detection in Midland | ACS Enterprise "
+title: "Water Leak Detection in Midland | ACS Enterprise"
 h1: "Water Leak Detection in Midland"
 meta_description: "Water leak detection in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "water leak detection midland"

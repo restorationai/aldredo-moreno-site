@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Big Spring, TX | ACS Enterprise "
+title: "Upholstery Cleaning in Big Spring, TX | ACS Enterprise"
 h1: "Upholstery Cleaning in Big Spring"
 meta_description: "Upholstery cleaning in Big Spring, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning big spring"

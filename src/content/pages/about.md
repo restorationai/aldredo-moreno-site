@@ -1,7 +1,7 @@
 ---
 archetype: "about"
 title: "About ACS Enterprise  | Midland Restoration Company"
-h1: "About ACS Enterprise "
+h1: "About ACS Enterprise"
 meta_description: "ACS Enterprise has served Midland since 2019. Meet our restoration team. Licensed, insured, locally owned."
 primary_keyword: "acs enterprise  midland"
 secondary_keywords: ["local restoration company", "iicrc certified restoration", "licensed restoration contractor"]

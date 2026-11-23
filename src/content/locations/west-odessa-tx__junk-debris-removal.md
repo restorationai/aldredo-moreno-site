@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in West Odessa, TX | ACS Enterprise "
+title: "Junk & Debris Removal in West Odessa, TX | ACS Enterprise"
 h1: "Junk & Debris Removal in West Odessa"
 meta_description: "Junk & debris removal in West Odessa, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "junk & debris removal west odessa"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Gardendale, TX | ACS Enterprise "
+title: "Junk & Debris Removal in Gardendale, TX | ACS Enterprise"
 h1: "Junk & Debris Removal in Gardendale"
 meta_description: "Junk & debris removal in Gardendale, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "junk & debris removal gardendale"

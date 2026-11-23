@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Big Spring, TX | ACS Enterprise "
+title: "Restoration Services in Big Spring, TX | ACS Enterprise"
 h1: "Restoration Services in Big Spring"
 meta_description: "Serving Big Spring, TX with water, sewage, and storm damage restoration. Experienced team. Call (432) 847-4704."
 primary_keyword: "restoration services big spring"

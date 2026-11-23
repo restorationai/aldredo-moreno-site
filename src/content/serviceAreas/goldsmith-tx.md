@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Goldsmith, TX | ACS Enterprise "
+title: "Restoration Services in Goldsmith, TX | ACS Enterprise"
 h1: "Restoration Services in Goldsmith"
 meta_description: "Serving Goldsmith, TX with water, sewage, and storm damage restoration. Experienced team. Call (432) 847-4704."
 primary_keyword: "restoration services goldsmith"

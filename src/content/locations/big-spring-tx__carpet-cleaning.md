@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Big Spring, TX | ACS Enterprise "
+title: "Carpet Cleaning in Big Spring, TX | ACS Enterprise"
 h1: "Carpet Cleaning in Big Spring"
 meta_description: "Carpet cleaning in Big Spring, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "carpet cleaning big spring"

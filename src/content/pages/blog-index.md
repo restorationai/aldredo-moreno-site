@@ -1,6 +1,6 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | ACS Enterprise "
+title: "Restoration Blog | ACS Enterprise"
 h1: "Restoration Resources and Insights"
 meta_description: "Guides, checklists, and explainers from ACS Enterprise  on water, sewage, and storm damage restoration."
 primary_keyword: "restoration blog midland"

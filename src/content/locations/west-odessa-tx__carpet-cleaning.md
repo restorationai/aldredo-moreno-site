@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in West Odessa, TX | ACS Enterprise "
+title: "Carpet Cleaning in West Odessa, TX | ACS Enterprise"
 h1: "Carpet Cleaning in West Odessa"
 meta_description: "Carpet cleaning in West Odessa, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "carpet cleaning west odessa"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Big Lake, TX | ACS Enterprise "
+title: "Carpet Cleaning in Big Lake, TX | ACS Enterprise"
 h1: "Carpet Cleaning in Big Lake"
 meta_description: "Carpet cleaning in Big Lake, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "carpet cleaning big lake"

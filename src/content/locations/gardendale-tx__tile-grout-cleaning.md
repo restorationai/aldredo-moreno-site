@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Tile & Grout Cleaning in Gardendale, TX | ACS Enterprise "
+title: "Tile & Grout Cleaning in Gardendale, TX | ACS Enterprise"
 h1: "Tile & Grout Cleaning in Gardendale"
 meta_description: "Tile & grout cleaning in Gardendale, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "tile & grout cleaning gardendale"

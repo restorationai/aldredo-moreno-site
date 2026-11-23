@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Carpet Cleaning in Gardendale, TX | ACS Enterprise "
+title: "Carpet Cleaning in Gardendale, TX | ACS Enterprise"
 h1: "Carpet Cleaning in Gardendale"
 meta_description: "Carpet cleaning in Gardendale, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "carpet cleaning gardendale"

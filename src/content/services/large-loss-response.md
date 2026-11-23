@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Large Loss and Catastrophic Response in Midland | ACS Enterprise "
+title: "Large Loss and Catastrophic Response in Midland | ACS Enterprise"
 h1: "Large Loss and Catastrophic Response in Midland"
 meta_description: "Large loss and catastrophic response in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "large loss and catastrophic response midland"

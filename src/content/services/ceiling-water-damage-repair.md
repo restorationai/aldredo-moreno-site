@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Emergency Ceiling Water Damage Repair in Midland | ACS Enterprise "
+title: "Emergency Ceiling Water Damage Repair in Midland | ACS Enterprise"
 h1: "Emergency Ceiling Water Damage Repair in Midland"
 meta_description: "Emergency ceiling water damage repair in Midland and surrounding areas. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "ceiling water damage repair midland"

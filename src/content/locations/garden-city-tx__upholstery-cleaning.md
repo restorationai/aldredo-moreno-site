@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Upholstery Cleaning in Garden City, TX | ACS Enterprise "
+title: "Upholstery Cleaning in Garden City, TX | ACS Enterprise"
 h1: "Upholstery Cleaning in Garden City"
 meta_description: "Upholstery cleaning in Garden City, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "upholstery cleaning garden city"

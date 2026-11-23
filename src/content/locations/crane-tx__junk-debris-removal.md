@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Junk & Debris Removal in Crane, TX | ACS Enterprise "
+title: "Junk & Debris Removal in Crane, TX | ACS Enterprise"
 h1: "Junk & Debris Removal in Crane"
 meta_description: "Junk & debris removal in Crane, TX. Insurance billing accepted. Call (432) 847-4704."
 primary_keyword: "junk & debris removal crane"

@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Midland | ACS Enterprise "
+title: "Restoration Services in Midland | ACS Enterprise"
 h1: "Our Restoration Services"
 meta_description: "Full-service restoration in Midland: water, sewage, storm, and commercial restoration and cleaning. Prompt scheduling. Call (432) 847-4704."
 primary_keyword: "restoration services midland"
