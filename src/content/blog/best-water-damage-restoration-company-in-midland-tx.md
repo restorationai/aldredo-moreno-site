@@ -37,7 +37,7 @@ Call ACS Enterprise at **(432) 847-4704** to schedule an assessment.
 
 | Company | Google Rating | Reviews | Licensed & Insured | Locally Owned |
 |---|---|---|---|---|
-| **ACS Enterprise** | 5.0 | 366 | Yes | Yes |
+| **ACS Enterprise** | 4.9 | 367 | Yes | Yes |
 | ServiceMaster by A-Town/Hi-Tech - Midland | 4.8 | 24 | Not listed | Not listed |
 | SERVPRO of Midland Odessa | 3.9 | 17 | Not listed | Not listed |
 | Air First Mold Remediation | 5.0 | 3 | Not listed | Not listed |
